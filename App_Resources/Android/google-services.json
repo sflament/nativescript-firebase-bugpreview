@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "2391874545",
+    "firebase_url": "https://scorching-fire-9218.firebaseio.com",
+    "project_id": "scorching-fire-9218",
+    "storage_bucket": "scorching-fire-9218.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2391874545:android:eca4db03c9dbad9c",
+        "android_client_info": {
+          "package_name": "com.ladeezfirstmedia.giftler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2391874545-4h3tv4ro231mc5f5181c3351hmdttqdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqUdt3DB5pzcoLPtdbE8vU0xhvEQrNbcc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2391874545:android:b9ad8e89e9138cde",
+        "android_client_info": {
+          "package_name": "org.nativescript.wemind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2391874545-4h3tv4ro231mc5f5181c3351hmdttqdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqUdt3DB5pzcoLPtdbE8vU0xhvEQrNbcc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2391874545:android:54c76fd7de862e46",
+        "android_client_info": {
+          "package_name": "org.nativescript.wemindts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2391874545-4h3tv4ro231mc5f5181c3351hmdttqdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqUdt3DB5pzcoLPtdbE8vU0xhvEQrNbcc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
